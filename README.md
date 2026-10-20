@@ -1,6 +1,6 @@
 ## Current Rabbit Holes:
-🕳️ OS Kernels, Window Managers, and Tiling
+🕳️ [OS kernels, window managers, and tiling](https://github.com/sophtsang/kernel_bsod)
 
-🕳️ Three.js and custom shaders
+🕳️ [Three.js and custom shaders](https://github.com/sophtsang/sophtsang.github.io/tree/main/src)
 
-🕳️ Robot perception
+🕳️ [Robot perception](https://github.com/sophtsang/virtual-rgbd-sensor)
