@@ -1,3 +1,5 @@
+Visit my [portfolio](https://sophtsang.github.io/)!
+
 ## Current Rabbit Holes:
 🕳️ [OS kernels, window managers, and tiling](https://github.com/sophtsang/kernel_bsod)
 
